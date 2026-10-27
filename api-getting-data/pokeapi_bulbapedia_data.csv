@@ -1,0 +1,6 @@
+pokeapi_id,english_name,generation,types,is_legendary,is_mythical,match_status,bulbapedia_title_tried,bulbapedia_title,word_count,character_count,internal_link_count,unique_internal_link_count,pokeapi_name_languages,bulbapedia_language_links
+25,Pikachu,generation-i,electric,False,False,direct match,Pikachu (Pokémon),Pikachu (Pokémon),23959,136531,4002,1782,de|en|es|es-419|fr|it|ja|ja-hrkt|ja-roma|ko|zh-hans|zh-hant,de|es|fr|it|ja|zh
+122,Mr. Mime,generation-i,psychic|fairy,False,False,direct match,Mr. Mime (Pokémon),Mr. Mime (Pokémon),7882,43350,1747,701,de|en|es|es-419|fr|it|ja|ja-hrkt|ja-roma|ko|zh-hans|zh-hant,de|es|fr|it|ja|zh
+83,Farfetch’d,generation-i,normal|flying,False,False,redirected,Farfetch’d (Pokémon),Farfetch'd (Pokémon),8197,45764,1519,679,de|en|es|es-419|fr|it|ja|ja-hrkt|ja-roma|ko|zh-hans|zh-hant,de|es|fr|it|ja|zh
+29,Nidoran♀,generation-i,poison,False,False,direct match,Nidoran♀ (Pokémon),Nidoran♀ (Pokémon),6331,34383,1655,766,de|en|es|es-419|fr|it|ja|ja-hrkt|ja-roma|ko|zh-hans|zh-hant,de|es|fr|it|ja|zh
+906,Sprigatito,generation-ix,grass,False,False,direct match,Sprigatito (Pokémon),Sprigatito (Pokémon),2946,16573,728,381,de|en|es|es-419|fr|it|ja|ja-hrkt|ja-roma|ko|zh-hans|zh-hant,de|es|fr|it|ja|zh
